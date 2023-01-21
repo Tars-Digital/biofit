@@ -18,5 +18,6 @@ Repositorio para criação do site da biofit academia
 - Apresentação
 - Quem somos
 - Diferenciais
+- Contato: linkedin, face, instagram, whats...
 ### Opcionais:
 - Planos e serviços
