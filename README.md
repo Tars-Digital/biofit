@@ -21,3 +21,6 @@ Repositorio para criação do site da biofit academia
 - Contato: linkedin, face, instagram, whats...
 ### Opcionais:
 - Planos e serviços
+
+
+Entrar no Notion, link no email
